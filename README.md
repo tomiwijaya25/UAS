@@ -1,5 +1,10 @@
 # UAS
 
+
+Project UAS
+>Project UAS ini adalah sebuah project dimana kita mebuat 4 macam programs yang tersimpan di sebuah pakage (file) masing-masing programs sehingga memudahkan kita untuk mengubah/mengedit nya.4 Programs tersebut terdiri dari Program Penggajian, Penginputan Nilai, Kalkulator, dan Pembayaran SPP (Bulanan).
+
+
 ## PROGRAM FLOWCHART
     Ini adalah flowchart nya  :
    ![FLOWCHART UAS](https://user-images.githubusercontent.com/45529706/56094070-1ba2cd80-5efa-11e9-8113-300e62f861d0.JPG)
